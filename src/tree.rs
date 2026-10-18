@@ -76,7 +76,8 @@ pub(crate) fn tree_insert<S: PageStore>(
             } else if page.get_key(idx) == key {
                 leaf_update(&mut updated, &page, idx, key, val)?;
             } else {
-                leaf_insert(&mut updated, &page, idx + 1, key, val)?;
+                let insert_idx = if key < page.get_key(0) { 0 } else { idx + 1 };
+                leaf_insert(&mut updated, &page, insert_idx, key, val)?;
             }
         }
         TYPE_NODE => {
