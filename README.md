@@ -11,6 +11,7 @@ Everything here is written with zero external crates. No third-party dependencie
 I am building this entire database live on YouTube, step by step:
 
 * **YouTube Channel**: [Code Under Pressure](https://www.youtube.com/@CodeUnderPressure)
+* **Series Playlist**: [Watch the Full Playlist](https://youtube.com/playlist?list=PLAAINjgS-3kQ&si=Si6hmZCU3LOtEg6r)
 * **Episode 1**: Building the Core 4KB Page Layout & B-Tree from Scratch
 * **Episode 2**: Adding a Free List to reclaim disk space (Coming next)
 
