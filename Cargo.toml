@@ -2,5 +2,10 @@
 name = "pressuredb"
 version = "0.1.0"
 edition = "2024"
+authors = ["Code Under Pressure"]
+description = "A persistent 4KB copy on write B tree database built from scratch in Rust"
+license = "MIT"
+repository = "https://github.com/codeunderpressure/pressuredb"
 
 [dependencies]
+
