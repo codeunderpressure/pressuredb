@@ -12,7 +12,7 @@ I am building this entire database live on YouTube, step by step:
 
 * **YouTube Channel**: [Code Under Pressure](https://www.youtube.com/@CodeUnderPressure)
 * **Series Playlist**: [Watch the Full Playlist](https://youtube.com/playlist?list=PLAAINjgS-3kQ&si=Si6hmZCU3LOtEg6r)
-* **Episode 1**: [Building the Core 4KB Page Layout & B-Tree from Scratch](https://www.youtube.com/watch?v=lwJbpX_C8-w)
+* **Episode 1**: [Building the Core 4KB Page Layout & B-Tree from Scratch](https://youtu.be/hyiFhumvLL4?si=WggoqkZHTmv3Ncot)
 * **Episode 2**: Adding a Free List to reclaim disk space (Coming next)
 
 ## Running It Locally
